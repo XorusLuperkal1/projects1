@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("СЫН СОБАКИ МЕНЯ УБИВАЮТ тварына\n");
+    printf("СЫН СОБАКИ МЕНЯ УБИВАЮТ nia\n");
     return 0;
 }
